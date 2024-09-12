@@ -1,5 +1,7 @@
 Zomato Sales Exploratory Data Analysis (EDA)
+
 Project Overview
+
 This repository contains an Exploratory Data Analysis (EDA) of Zomato's sales data. The goal of this analysis is to uncover key insights about the business, focusing on customer behavior, restaurant performance, delivery times, and sales trends. The findings will help Zomato make data-driven decisions to enhance their service and customer satisfaction.
 
 Files in the Repository
